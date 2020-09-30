@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G1ANT.Addon.Naukri", "G1ANT.Addon.Naukri\G1ANT.Addon.Naukri.csproj", "{834275EC-1D16-47F2-AA81-8F749E4E0F96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{834275EC-1D16-47F2-AA81-8F749E4E0F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{834275EC-1D16-47F2-AA81-8F749E4E0F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{834275EC-1D16-47F2-AA81-8F749E4E0F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{834275EC-1D16-47F2-AA81-8F749E4E0F96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72294BC4-0DD8-41F8-9012-A30649F26E0B}
+	EndGlobalSection
+EndGlobal
