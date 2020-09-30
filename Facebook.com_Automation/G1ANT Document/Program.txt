@@ -1,0 +1,8 @@
+addon facebook version 1.0.0.0
+addon core version 4.106.0.0
+addon language version 4.105.0.0
+facebook.open
+facebook.login email ♥credential⟦facebook:email⟧ pword ♥credential⟦facebook:pass⟧ search
+facebook.refresh
+facebook.logout
+facebook.close
