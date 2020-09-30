@@ -1,0 +1,9 @@
+addon pinterest version 1.0.0.0
+addon core version 4.106.0.0
+addon language version 4.105.0.0
+
+pinterest.open
+pinterest.login email ♥credential⟦pinterest:email⟧ pword ♥credential⟦pinterest:pass⟧ search
+pinterest.refresh
+pinterest.logout
+pinterest.close
