@@ -1,0 +1,8 @@
+addon naukri version 1.0.0.0
+addon core version 4.106.0.0
+addon language version 4.105.0.0
+naukri.open
+naukri.login email ♥credential⟦naukri:email⟧ pword ♥credential⟦naukri:pass⟧ search
+naukri.refresh
+naukri.logout
+naukri.close
