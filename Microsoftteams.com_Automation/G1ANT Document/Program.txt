@@ -1,0 +1,8 @@
+addon microsoftteams version 1.0.0.0
+addon core version 4.106.0.0
+addon language version 4.105.0.0
+microsoftteams.open
+microsoftteams.login email ♥credential⟦microsoftteams:email⟧ pword ♥credential⟦microsoftteams:pass⟧ search
+microsoftteams.refresh
+microsoftteams.logout
+microsoftteams.close
