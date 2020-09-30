@@ -1,0 +1,9 @@
+addon reddit version 1.0.0.0
+addon core version 4.106.0.0
+addon language version 4.105.0.0
+
+reddit.open
+reddit.login email ♥credential⟦reddit:email⟧ pword ♥credential⟦reddit:pass⟧ search
+reddit.refresh
+reddit.logout
+reddit.close
